@@ -35,8 +35,10 @@ sudo chmod +x /usr/local/bin/jaxodraw # making it executable
 
 Open the above file ad write into it the following command:
 ``` bash
-java -jar path-to-jaxodraw/jaxodraw-2.1-0.jar
+java -jar /opt/jaxodraw-2.1-0/jaxodraw-2.1-0.jar
 ```
+_Note_: replace */opt/jaxodraw-2.1-0/* with the *path/to/jaxodraw/* you chose for the installation.
+
 
 ## Desktop icon
 
