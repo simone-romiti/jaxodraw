@@ -8,6 +8,15 @@ Here it is explained how to:
 2. Enable the LaTeX compatibility
 3. Completely uninstall Jaxodraw
 
+## Super-fast installation and setup
+
+In the following sections all the steps are explained, but for a fast installation and setup of jaxodraw simply run the following executable:
+
+``` bash
+chmod +x ./install.sh # is not already executable
+./install.sh
+``` 
+
 ## Download and install
 
 Download the most recent version of the pre-compiled binary of Jaxodraw from the [website](http://jaxodraw.sourceforge.net/download/bin.html) or directly clicking on this [link](http://jaxodraw.sourceforge.net/download/pkgs/jaxodraw-2.1-0-bin.tar.gz)
